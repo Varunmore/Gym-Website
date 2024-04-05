@@ -15,7 +15,7 @@ To use this website template, follow these steps:
 1. Download the repository or clone it to your local machine:
 
     ```
-    git clone https://github.com/your_username/gym-website.git
+    git clone https://github.com/Varunmore/gym-website.git
     ```
 
 2. Navigate to the directory of the cloned repository:
