@@ -1,2 +1,2 @@
-# Power_01-10-23
+# GYM Website
 Learn how to build a stunning and responsive gym website from scratch with this step-by-step tutorial.
