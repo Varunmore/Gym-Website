@@ -34,7 +34,7 @@ The website template consists of the following files and directories:
 
 - **index.html**: The main HTML file containing the structure and content of the website.
 - **styles.css**: The CSS file containing styles for layout, typography, colors, etc.
-- **script.js**: The JavaScript file containing interactive functionalities.
+- **main.js**: The JavaScript file containing interactive functionalities.
 - **images/**: Directory containing image assets used in the website.
 
 ## Customization
@@ -42,7 +42,7 @@ The website template consists of the following files and directories:
 - **Content**: Modify the HTML files to update text content, headings, and links.
 - **Images**: Replace the images in the `images/` directory with your own gym's images.
 - **Styles**: Adjust the styles in the `styles.css` file to match your gym's branding and preferences.
-- **Functionality**: Customize the JavaScript in `script.js` to add or modify interactive features as needed.
+- **Functionality**: Customize the JavaScript in `main.js` to add or modify interactive features as needed.
 
 ## Deployment
 
